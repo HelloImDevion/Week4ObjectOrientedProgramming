@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4ObjectOrientedProgramming\Week4ObjectOrientedProgramming\bin\Debug\Week4ObjectOrientedProgramming.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4ObjectOrientedProgramming\Week4ObjectOrientedProgramming\bin\Debug\Week4ObjectOrientedProgramming.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4ObjectOrientedProgramming\Week4ObjectOrientedProgramming\bin\Debug\Week4ObjectOrientedProgramming.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4ObjectOrientedProgramming\Week4ObjectOrientedProgramming\obj\Debug\Week4ObjectOrientedProgramming.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4ObjectOrientedProgramming\Week4ObjectOrientedProgramming\obj\Debug\Week4ObjectOrientedProgramming.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week4ObjectOrientedProgramming\Week4ObjectOrientedProgramming\obj\Debug\Week4ObjectOrientedProgramming.pdb
